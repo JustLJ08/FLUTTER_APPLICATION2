@@ -89,7 +89,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
         child: Center(
-            child: Text('Hello Bipsunistas and Jamesmar', style: TextStyle(fontSize: 24)),
+            child: Text('Hello World!', style: TextStyle(fontSize: 24)),
           ),
         ),
       floatingActionButton: FloatingActionButton(
